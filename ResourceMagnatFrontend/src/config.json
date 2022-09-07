@@ -1,0 +1,4 @@
+{
+  "ServerDev": "https://localhost:7144/",
+  "ServerProd": "/magnat/"
+}

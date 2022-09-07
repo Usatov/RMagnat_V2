@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3ACsDvIdLGqQcyA3tAin9+vQMcJ3TWyBd+MidhOI3QA=",
+  "Source": "ResourceMagnatBackend",
+  "BasePath": "_content/ResourceMagnatBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
